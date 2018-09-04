@@ -935,3 +935,5 @@ bot.on('message', (message) =>{
 
 //connect bot to discord
 bot.login(auth.token);
+
+//Just to test the workflow
